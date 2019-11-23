@@ -8,7 +8,7 @@ BIP😸 is an informational BIP that outlines a general guideline for encoding B
 https://unicode.org/emoji/charts/full-emoji-list.html
 
 2. Parse the table using this:
-https://unicode.org/emoji/charts/full-emoji-list.html
+https://stackoverflow.com/questions/6325216/parse-html-table-to-python-list
 
 3. Save each image as a PNG with a name like:
 cldr_short_name-platform.png
